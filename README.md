@@ -1,2 +1,1 @@
-# react-template
-Black Template for React
+# Blank Template file for React Projects
